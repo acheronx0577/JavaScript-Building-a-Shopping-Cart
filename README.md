@@ -22,7 +22,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 <img width="1397" height="1125" alt="Screenshot 2025-11-02 142849" src="https://github.com/user-attachments/assets/f29af958-346a-47df-b7cf-069e11483d04" />
 
-Live Demo: https://yourusername.github.io/JavaScript-Shopping-Cart
+Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Shopping-Cart
 
 ---
 
