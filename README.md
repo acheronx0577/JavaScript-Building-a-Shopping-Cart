@@ -59,7 +59,7 @@ Live Demo: https://yourusername.github.io/JavaScript-Shopping-Cart
 
 ### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-Spam-Filter.git
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Shopping-Cart.git
 ```
 
 ### 2️⃣ Run the file
